@@ -136,11 +136,6 @@ This repo is intentionally a research pipeline, not a deployed service. Sketches
 - **Deep learning**: PyTorch autoencoder (multi-hot in → 6-dim dense → reconstruct), Siamese contrastive head
 - **Evaluation**: cosine similarity, Precision@K, Recall@K
 
----
-
-##  Citation / context
-
-This project was originally completed as the AML Toy Tagger assignment for **STAT6209 (CUHK, 2025)**. The pipeline structure, the use of LLM-as-Critic for cheap ground-truth generation, and the Siamese fine-tuning step are my own design choices. Full report at `Topic 1_ AML Toy Tagger.pdf`.
 
 ---
 
